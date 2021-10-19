@@ -1,3 +1,3 @@
 # Test_repository
 
-Testt git Directory
+Testing git Directory
